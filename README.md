@@ -1,6 +1,6 @@
 # CS-320-Project
 
-    This term, I enjoyed discovering JUnit Testing 
+          This term, I enjoyed discovering JUnit Testing 
     and learning how to implement them into my project. 
     This not only shows me how my program will function, 
     but also increases security. With a code coverage 
